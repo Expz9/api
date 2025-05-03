@@ -4,5 +4,8 @@
   },
   "servercheckapi_customer2": {
     "restricted_date": "2025-05-30"
-  }
+  },
+  "jerrtown": {
+    "restricted_date": "3000-05-30"
+  }  
 }
