@@ -13,5 +13,8 @@
   },
   "test1": {
     "restricted_date": "2025-05-25"
-  }  
+  },
+  "xeria": {
+    "restricted_date": "2025-06-1"
+  } 
 }
