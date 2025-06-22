@@ -25,5 +25,8 @@
   },
   "tsp": {
     "restricted_date": "2025-06-28"
-  }
+  },
+  "realfight": {
+    "restricted_date": "3000-06-28"
+  } 
 }
