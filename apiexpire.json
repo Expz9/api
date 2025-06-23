@@ -28,5 +28,8 @@
   },
   "realfight": {
     "restricted_date": "3000-06-28"
-  } 
+  },
+  "angel": {
+    "restricted_date": "3000-06-28"
+  }   
 }
