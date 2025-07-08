@@ -36,6 +36,9 @@
     "restricted_date": "2025-07-30"
   },
   "urcity": {
+    "restricted_date": "3000-07-30"
+  },
+  "legend": {
     "restricted_date": "2025-07-30"
-  }
+  }  
 }
