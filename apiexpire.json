@@ -40,5 +40,8 @@
   },
   "legend": {
     "restricted_date": "2025-07-30"
-  }  
+  },
+  "crystal": {
+    "restricted_date": "2025-07-30"
+  }
 }
