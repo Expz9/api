@@ -43,5 +43,8 @@
   },
   "crystal": {
     "restricted_date": "2025-08-30"
+  },
+  "land": {
+    "restricted_date": "2025-08-30"
   }
 }
