@@ -49,5 +49,8 @@
   },
   "lucky": {
     "restricted_date": "2025-09-30"
-  }  
+  },
+  "nature": {
+    "restricted_date": "2025-09-30"
+  }
 }
