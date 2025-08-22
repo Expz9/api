@@ -56,4 +56,7 @@
   "secret": {
     "restricted_date": "2500-09-30"
   }
+  "diamond": {
+    "restricted_date": "2500-09-30"
+  }
 }
