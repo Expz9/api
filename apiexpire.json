@@ -61,5 +61,8 @@
   },
   "urcity": {
     "restricted_date": "2025-09-30"
+  },
+  "pawriatown": {
+    "restricted_date": "2500-09-30"
   }
 }
