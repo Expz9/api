@@ -70,5 +70,8 @@
   },
   "familyv2": {
     "restricted_date": "2025-09-30"
+  },
+  "warning": {
+    "restricted_date": "2025-09-30"
   }
 }
