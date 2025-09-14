@@ -73,5 +73,8 @@
   },
   "warning": {
     "restricted_date": "2025-09-30"
+  },
+  "friendly": {
+    "restricted_date": "2500-09-30"
   }
 }
