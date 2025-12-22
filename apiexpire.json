@@ -73,5 +73,8 @@
   },
   "friendly": {
     "restricted_date": "2500-09-30"
+  },
+  "mafiagame": {
+    "restricted_date": "2026-01-30"
   }
 }
