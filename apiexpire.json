@@ -79,5 +79,8 @@
   },
   "yazuza": {
     "restricted_date": "2026-02-30"
-  }  
+  },
+  "nature": {
+    "restricted_date": "2060-02-30"
+  }
 }
