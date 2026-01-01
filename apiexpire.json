@@ -85,5 +85,8 @@
   },
   "sander": {
     "restricted_date": "2060-02-30"
+  },
+  "bennington": {
+    "restricted_date": "2060-02-30"
   }
 }
