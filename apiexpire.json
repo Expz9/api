@@ -91,5 +91,8 @@
   },
   "berlin": {
     "restricted_date": "2070-01-30"
-  }
+  },
+  "muangnao": {
+    "restricted_date": "2026-02-30"
+  }  
 }
