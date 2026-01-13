@@ -94,5 +94,8 @@
   },
   "muangnao": {
     "restricted_date": "2026-02-30"
+  },
+  "limited": {
+    "restricted_date": "2026-02-30"
   }  
 }
