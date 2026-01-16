@@ -93,12 +93,12 @@
     "restricted_date": "2070-01-30"
   },
   "muangnao": {
-    "restricted_date": "2026-02-30"
+    "restricted_date": "2026-02-1"
   },
   "limited": {
-    "restricted_date": "2026-02-30"
+    "restricted_date": "2026-02-1"
   },
   "lossantos": {
-    "restricted_date": "2026-02-30"
+    "restricted_date": "2026-02-1"
   } 
 }
