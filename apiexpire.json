@@ -103,5 +103,8 @@
   },
   "jokemo": {
     "restricted_date": "2026-02-1"
+  },
+  "arena": {
+    "restricted_date": "2026-02-1"
   } 
 }
