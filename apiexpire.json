@@ -106,5 +106,8 @@
   },
   "arena": {
     "restricted_date": "2026-02-15"
+  },
+  "allstar": {
+    "restricted_date": "2026-12-30"
   }
 }
