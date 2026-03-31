@@ -121,5 +121,8 @@
   },
   "outlaw": {
     "restricted_date": "2026-04-20"
+  },
+  "white": {
+    "restricted_date": "2026-04-20"
   }
 }
