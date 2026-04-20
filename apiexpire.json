@@ -124,5 +124,8 @@
   },
   "white": {
     "restricted_date": "2026-04-20"
-  }
+  },
+  "season": {
+    "restricted_date": "2100-05-1"
+  } 
 }
