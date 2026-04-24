@@ -127,5 +127,8 @@
   },
   "season": {
     "restricted_date": "2100-05-1"
+  },
+  "ATLAS": {
+    "restricted_date": "2026-05-24"
   } 
 }
